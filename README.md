@@ -1,16 +1,16 @@
-# Merhaba, Ben [Tunahan Duman] 👋
+# Hi, I'm [Tunahan Duman] 👋
 
-## Hakkımda
-- **Eğitim** [Sakarya Üniversitesi - Web Tasarımı ve Kodlama]
+## About Me
+- **Education:** Sakarya University - Web Design and Coding
 
-## Yeteneklerim
-- **Programlama Dilleri:** [C#, Python]
-- **Web Geliştirme:** [HTML, CSS]
-- **Araçlar ve Teknolojiler:**
+## My Skills
+- **Programming Languages:** C#, Python
+- **Web Development:** HTML, CSS
+- **Tools and Technologies:**
   - [Unity]
   - [Godot Engine]
   - [WordPress]
 
-## İletişim
+## Contact
 - 🔗 LinkedIn: [Tunahan Duman](https://www.linkedin.com/in/tunahan-duman/)
 - 🐦 Twitter: [@Tunahand](https://twitter.com/Tunahannd)
