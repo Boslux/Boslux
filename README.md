@@ -1,16 +1,15 @@
-### Hi there 👋
+# Merhaba, Ben [Tunahan Duman] 👋
 
-<!--
-**Boslux/Boslux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+- **Eğitim** [Sakarya Üniversitesi - Web Tasarımı ve Kodlama]
 
-Here are some ideas to get you started:
+## Yeteneklerim
+- **Programlama Dilleri:** [C#, Python]
+- **Web Geliştirme:** [HTML, CSS]
+- **Araçlar ve Teknolojiler:**
+  - [Unity](https://unity.com/)
+  - [Unreal Engine](https://www.unrealengine.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## İletişim
+- 🔗 LinkedIn: [Tunahan Duman](https://www.linkedin.com/in/tunahan-duman/)
+- 🐦 Twitter: [@Tunahand](https://twitter.com/Tunahannd)
