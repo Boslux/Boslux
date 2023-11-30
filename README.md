@@ -7,8 +7,9 @@
 - **Programlama Dilleri:** [C#, Python]
 - **Web Geliştirme:** [HTML, CSS]
 - **Araçlar ve Teknolojiler:**
-  - [Unity](https://unity.com/)
-  - [Unreal Engine](https://www.unrealengine.com/)
+  - [Unity]
+  - [Godot Engine]
+  - [WordPress]
 
 ## İletişim
 - 🔗 LinkedIn: [Tunahan Duman](https://www.linkedin.com/in/tunahan-duman/)
