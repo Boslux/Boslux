@@ -8,6 +8,7 @@
 - **Web Development:** HTML, CSS
 - **Tools and Technologies:**
   - [Unity]
+  - [.Net]
   - [Godot Engine]
   - [WordPress]
   - [Google Search Console]
