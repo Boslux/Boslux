@@ -4,7 +4,7 @@
 - **Education:** Sakarya University - Web Design and Coding
 
 ## My Skills
-- **Programming Languages:** C#, Python
+- **Programming Languages:** C#, Python, Java
 - **Web Development:** HTML, CSS
 - **Tools and Technologies:**
   - [Unity]
